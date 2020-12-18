@@ -13,4 +13,9 @@ public void mul(int num1,int num2) {
 	public void div(int num1,int num2) {
 	System.out.println("Div =" + (num1/num2));
 }
+	public void PROD(int num1,int num2) {
+	System.out.println("Div =" + (num1*num2));
+}
+
+	
 }
